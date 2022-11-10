@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_theme">
     <sp_theme action="INSERT_OR_UPDATE">
         <css_variables/>
-        <footer display_value="Employee Center Footer">ce046d5773603010c94f54eb7df6a7ec</footer>
+        <footer display_value="Footer-Instance Security Center">30817eda53502300a699ddeeff7b1215</footer>
         <footer_fixed>true</footer_fixed>
-        <header display_value="ESC Header">bda7abc623882300fb0c949e27bf6544</header>
+        <header display_value="Header-Instance Security Center">dc03f90753221300a8ed21fac2dc3474</header>
         <name>gblVA Theme</name>
         <navbar_fixed>true</navbar_fixed>
         <sys_class_name>sp_theme</sys_class_name>
